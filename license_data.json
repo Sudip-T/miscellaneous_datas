@@ -1,6 +1,4 @@
 {
-  "api_url": "https://api.example.com",
-  "timeout": 30,
-  "username": "user123",
-  "password": "securepassword"
+  "flag": 'true',
+  "msg" : ""
 }
