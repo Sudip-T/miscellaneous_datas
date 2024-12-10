@@ -1,4 +1,6 @@
-gek_config = {
-    'flag': 'true',
-    'msg': 'hello world'
+{
+  "api_url": "https://api.example.com",
+  "timeout": 30,
+  "username": "user123",
+  "password": "securepassword"
 }
