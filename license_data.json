@@ -1,4 +1,6 @@
+[
 gek_config = {
     'flag': 'true',
     'msg': 'hello world'
 }
+]
